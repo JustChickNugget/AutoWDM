@@ -18,7 +18,7 @@ If Fortnite isn't running and WDM isn't running - nothing happens
 
 ---
 
-**Process checking takes approximately 100 milliseconds or 0.1 seconds.**
+**Checking process takes approximately 100 milliseconds or 0.1 seconds.**
 
 ## Info
 © JustChickNugget, 2022. YouTube - https://www.youtube.com/channel/UCxGFf-j8llmGIra91GkcM9w
