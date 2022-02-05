@@ -10,11 +10,11 @@ Language: C# (.NET Core 5.0)
 
 ---
 
-If Fortnite is running but WDM isn't running - WDM is starting
+If Fortnite is running and WDM isn't - WDM starts
 
-If Fortnite isn't running but WDM is running -  WDM is closing
+If Fortnite isn't running and WDM is -  WDM closes
 
-If Fortnite isn't running and WDM isn't running - nothing happens
+If Fortnite and WDM isn't running or running - nothing happens
 
 ---
 
