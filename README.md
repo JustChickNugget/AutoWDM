@@ -1,4 +1,4 @@
-# AutoWDM (1.0)
+# AutoWDM (1.1)
 Description: Runs Wooting-Double-Movement when Fortnite is running
 
 Version: 1.1
