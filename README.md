@@ -1,7 +1,17 @@
 # AutoWDM (1.0)
 Description: Runs Wooting-Double-Movement when Fortnite is running
+Version: 1.1
+Language: C# (.NET Core 5.0)
 
-It's my first repository, so there are a lot of things I may not know. Idea appeared by my friend.
+## Help
+WDM - Wooting-Double-Movement
 
-AutoWDM - Version 1.0. I made it in C# (.NET Core 5.0). New functions I'll add in newer versions.
-The application doesn't require any admin rights
+If Fortnite is running but WDM isn't running - WDM is starting
+If Fortnite isn't running but WDM is running -  WDM is closing
+If Fortnite isn't running and WDM isn't running - nothing happens
+
+Process checking takes approximately 100 milliseconds or 0.1 seconds.
+
+## Info
+© JustChickNugget, 2022
+YouTube - https://www.youtube.com/channel/UCxGFf-j8llmGIra91GkcM9w
