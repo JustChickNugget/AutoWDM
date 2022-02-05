@@ -6,7 +6,7 @@ Version: 1.1
 Language: C# (.NET Core 5.0)
 
 ## Help
-WDM = Wooting-Double-Movement
+**WDM = Wooting-Double-Movement**
 
 If Fortnite is running but WDM isn't running - WDM is starting
 
