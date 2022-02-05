@@ -1,6 +1,8 @@
 # AutoWDM (1.0)
 Description: Runs Wooting-Double-Movement when Fortnite is running
+
 Version: 1.1
+
 Language: C# (.NET Core 5.0)
 
 ## Help
