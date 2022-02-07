@@ -1,4 +1,4 @@
-> Changelog
+> Changelog <
 
 > 07.02.22 - 1.3: Added stop button (I needed to replace "Thread" by "Tasks", took very long time today to teach it :/), added context menu for tray icon, turned off AutoTab for elements, added icons to buttons in Info tab
 > 06.02.22 - 1.2: Fixed minor bug
