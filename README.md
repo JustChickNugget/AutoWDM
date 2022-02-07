@@ -1,9 +1,9 @@
 # AutoWDM
 Last version: 1.3
 
-Language: C# (.NET Core 5.0). You may need to install this: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.13-windows-x64-installer
-
 Description: Runs Wooting-Double-Movement when Fortnite is running
+
+Language: C# (.NET Core 5.0). You may need to install this: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-5.0.13-windows-x64-installer
 
 ## Help
 **WDM = Wooting-Double-Movement**
