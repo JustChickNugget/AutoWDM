@@ -25,4 +25,4 @@ If Fortnite and WDM isn't running or running - nothing happens
 ## Info
 © JustChickNugget, 2022.
 
-YouTube - https://www.youtube.com/channel/UCxGFf-j8llmGIra91GkcM9w (not posting codes, just playing games)
+YouTube - https://www.youtube.com/channel/UCxGFf-j8llmGIra91GkcM9w (I'm not posting codes, just playing games)
