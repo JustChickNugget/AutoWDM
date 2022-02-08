@@ -1,7 +1,7 @@
 # AutoWDM
 Author - JustChickNugget (me)
 
-Version: 1.3
+Version: 1.4
 
 Description: Runs Wooting-Double-Movement when Fortnite is running
 
