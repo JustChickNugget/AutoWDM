@@ -1,6 +1,6 @@
 > Changelog <
 
-> 10.02.22 - 1.5: (FINAL VERSION, UNTIL I OR YOU FIND ANY BUGS) Added default path button, added "Always Running" checkbox and "Add to Start Menu" checkbox in the Settings tab
+> 10.02.22 - 1.5: (FINAL VERSION, UNTIL I OR YOU FIND ANY BUGS) Added default path button, added "Start Minimized", "Always Running", "Add to Start Menu" checkboxes in the Settings tab
 > 08.02.22 - 1.4: Added check frequency, fixed image location on buttons in Info tab
 > 07.02.22 - 1.3: Added stop button (I needed to replace "Thread" by "Tasks", took very long time today to teach it :/), added context menu for tray icon, turned off AutoTab for elements, added icons to buttons in Info tab
 > 06.02.22 - 1.2: Fixed minor bug
