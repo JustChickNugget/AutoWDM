@@ -1,7 +1,7 @@
 # AutoWDM
 Author - JustChickNugget (me)
 
-Version: 1.5
+Version: 1.6
 
 Description: Runs Wooting-Double-Movement when Fortnite is running
 
@@ -22,7 +22,7 @@ If Fortnite and WDM isn't running or running - nothing happens
 
 **After the version 1.4 you can choose your check frequency (ms)**
 
-**1.5 is the final version until I or you find any bugs**
+**1.6 is the final version until I or you find any bugs**
 
 ## Info
 © JustChickNugget, 2022.
