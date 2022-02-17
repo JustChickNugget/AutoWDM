@@ -19,6 +19,7 @@ If Fortnite isn't running and WDM is running -  WDM closes
 If Fortnite and WDM isn't running or running - nothing happens
 
 ---
+**The application doesn't require any administrator rights!**
 
 **After the version 1.4 you can choose your check frequency (ms)**
 
