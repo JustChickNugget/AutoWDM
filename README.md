@@ -26,6 +26,8 @@ If Fortnite and WDM isn't running or running - nothing happens
 **1.6 is the final version until I or you find any bugs**
 
 ## Info
-© JustChickNugget, 2022.
-
 YouTube - https://www.youtube.com/channel/UCxGFf-j8llmGIra91GkcM9w (I'm not posting codes, just playing games and rarely making memes)
+
+Twitch - https://www.twitch.tv/justchicknugget
+
+© JustChickNugget, 2022.
